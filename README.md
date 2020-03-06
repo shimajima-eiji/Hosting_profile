@@ -15,6 +15,7 @@ WIP版と現行版を比較しやすくする。
 - [Vue.jsのカレンダーライブラリ「V-Calendar」の使い方](https://www.kabanoki.net/3890/)
 
 GASからJSONを返すようにしてあるので、これを受け取って反映させられればできる？
+[元記事：PHPでGoogle Calendar API を使って空き時間を抽出してみた](https://qiita.com/shigezone/items/7ab266f172590e36bf45)
 
 # 文字入力制限について
 エージェントのシステム都合で記号や数字の半角・全角などに制限がある場合がある。
