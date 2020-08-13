@@ -1,6 +1,11 @@
 ## 更新履歴
 
-### 最終更新 2020年8月13日
+### 最終更新 2020年8月14日
+- [ba15c70](https://github.com/shimajima-eiji/profile/commit/ba15c70a0778f9d3a97ef2fd5480201c49f33a39) Create README.md (@shimajima-eiji)
+- [3944528](https://github.com/shimajima-eiji/profile/commit/3944528945fdd6cf96ad12e440c1ddfa18785161) Update 紹介文.md (@shimajima-eiji)
+- [110efaa](https://github.com/shimajima-eiji/profile/commit/110efaa9749137433308f8283c11e6650869d69c) Update キャッチコピー.txt (@shimajima-eiji)
+- [f60c66e](https://github.com/shimajima-eiji/profile/commit/f60c66ef1ec60d7f142f28bf6b34b92ed521c5cd) Rename このさきやってみたいこと to このさきやってみたいこと.md (@shimajima-eiji)
+- [65ef73c](https://github.com/shimajima-eiji/profile/commit/65ef73ce2e7373df103affc16a302bd89c590dd7) [2020/08/13][CHANGELOG] 最新化 (@shimajima-eiji)
 - [54a1a92](https://github.com/shimajima-eiji/profile/commit/54a1a927afb43e9eb4a2a7c24419d3020350f967) Create README.md (@shimajima-eiji)
 - [417cb43](https://github.com/shimajima-eiji/profile/commit/417cb43b759c86d31fe46c39e3f84a88c4a37fe7) Create README.md (@shimajima-eiji)
 - [95a2a25](https://github.com/shimajima-eiji/profile/commit/95a2a25b588288f5ca1aa37ab915709c32667148) Create teratail.md (@shimajima-eiji)
