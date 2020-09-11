@@ -898,3 +898,4 @@
 - [1a3c1df](https://github.com/shimajima-eiji/profile/commit/1a3c1df2284a2af753e533a941199c17c16479d9) Update 紹介文.md (@shimajima-eiji)
 - [210932b](https://github.com/shimajima-eiji/profile/commit/210932bb12a69a67165a9205022aac086916928f) Create 紹介文.md (@shimajima-eiji)
 - [c3a1574](https://github.com/shimajima-eiji/profile/commit/c3a1574b9f797ece34495196daa97d66a6609c21) Initial commit (@shimajima-eiji)
+
