@@ -1,2 +1,2 @@
-# ホスティング先
-- [マインドマップ](https://github.com/shimajima-eiji/Hosting/tree/master/docs/croudtech)
+# マインドマップ
+- [自己紹介](https://shimajima-eiji.github.io/croudtech/selfpr.html)

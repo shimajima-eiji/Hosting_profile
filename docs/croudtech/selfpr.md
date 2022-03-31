@@ -32,4 +32,4 @@
 - スライド風画面: https://shimajima-eiji.github.io/
 - Github: https://github.com/shimajima-eiji
 - ポートフォリオ: https://www.wantedly.com/id/nomuraya
-- 本稿の一覧: https://shimajima-eiji.github.io/Hosting_profile/croudtech/selfpr.html
+- 本稿の一覧: https://shimajima-eiji.github.io/Hosting/croudtech/selfpr.html
