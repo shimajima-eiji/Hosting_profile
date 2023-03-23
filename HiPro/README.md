@@ -1,0 +1,2 @@
+- https://tech.hipro-job.jp/
+- https://direct.hipro-job.jp/lp/pro/
