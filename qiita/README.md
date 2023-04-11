@@ -1,1 +1,0 @@
-https://qiita.com/nomurasan
