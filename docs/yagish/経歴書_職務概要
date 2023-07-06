@@ -1,0 +1,10 @@
+フリーランス（法人化を検討中）
+
+# 事業内容
+- Webアプリ/AI, R&D（フルスタック・インフラ）
+- システムコンサルティング, PM/PMO
+- 新人・未経験者指導（法人・個人不問。学生または社会人講師＋教材開発やクラス運営）
+
+# 技術要件
+- 開発環境: VSCode, Git(Hub), Windows + Mac(Unix) + Linux(WSL-Debian系ディストリビューション), Docker, GAS
+- 言語FW: JavaScript(Type, React, Vue), Java(Spring, JSP/Servlet, Selenium), PHP(ECcube, Laravel, Cake, Symphony), Ruby(Rails, Sinatra), Python(Flask, TensolFlow, Keras, PyTorch),　その他xUnit
