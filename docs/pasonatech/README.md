@@ -1,2 +1,2 @@
 # 登録先
-https://pasonatech.co.jp
+https://pasonaelpis.my.site.com
