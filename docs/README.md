@@ -1,0 +1,2 @@
+- https://type.jp
+- https://type.jp/s/fair
