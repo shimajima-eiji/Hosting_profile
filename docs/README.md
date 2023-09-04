@@ -9,11 +9,11 @@ LAPRAS
 
 Wantedly
 
-Green
+- [ ] Green
 
 レバテック
 
-転職ドラフト
+- [ ] 転職ドラフト
 
 Geekly
 
@@ -43,9 +43,9 @@ dodaX
 
 エンエージェント
 
-AMBI
+- [ ] AMBI
 
-エンジニアHub
+- [ ] エンジニアHub
 
 Type
 
@@ -53,7 +53,7 @@ Type
 
 Direct type
 
-OpenWork
+- [ ] OpenWork
 
 クラウドワークス
 
@@ -61,10 +61,10 @@ OpenWork
 
 ココナラ
 
-doocy Job
+- [ ] doocy Job
 
-YOUTRUST
+- [ ] YOUTRUST
 
 シューマツワーカー
 
-複業クラウド
+- [ ] 複業クラウド
