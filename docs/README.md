@@ -1,70 +1,16 @@
-# サービス登録タスクメモ
-Findy
+## どこに書いたか分からなくなったものメモ
+<details>
 
-ビズリーチ
+```
+ソフトウェアエンジニアリングと人財開発（教育研修講師・オンボーディング支援）を営むフリーランスです
+エンジニアの学校事業とイベントスペース、コミュニティマーケティングの親和性について個人の範疇で研究・検証（普及・価値創出）に努めています。
+２事業を通じてメタバースxAIx教育xゲームの可能性を追求し、AI・メタバース時代のエンジニアの価値やロードマップを模索しています。
 
-Forkwell
+技術要件について、最新情報は以下をご確認ください
 
-LAPRAS
+- GitHub: https://github.com/shimajima-eiji
+- メディア: https://qiita.com/nomurasan
+- 経歴: https://www.wantedly.com/id/nomuraya
+```
 
-Wantedly
-
-- [ ] Green
-
-レバテック
-
-- [ ] 転職ドラフト
-
-Geekly
-
-Offers
-
-QiitaJobs
-
-paiza
-
-LinkedIn
-
-indeed
-
-リクナビNEXT
-
-リクルートダイレクトスカウト
-
-マイナビ転職
-
-マイナビエージェント
-
-doda
-
-dodaX
-
-エン転職
-
-エンエージェント
-
-- [ ] AMBI
-
-- [ ] エンジニアHub
-
-Type
-
-女の転職type
-
-Direct type
-
-- [ ] OpenWork
-
-クラウドワークス
-
-ランサーズ
-
-ココナラ
-
-- [ ] doocy Job
-
-- [ ] YOUTRUST
-
-シューマツワーカー
-
-- [ ] 複業クラウド
+</details>
