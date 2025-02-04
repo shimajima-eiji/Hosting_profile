@@ -1,4 +1,4 @@
-https://tomonokai-service.net
+https://www.tnews.jp/mypage/jobs?s%5Bbrand%5D=5
 
 ## 意気込み・自己PR
 はじめまして、中と申します。
